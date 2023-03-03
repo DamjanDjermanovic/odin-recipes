@@ -5,3 +5,8 @@ a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
+
+.images {
+    width: 500;
+    height: 500;
+}
