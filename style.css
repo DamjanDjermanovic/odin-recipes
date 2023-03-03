@@ -6,7 +6,42 @@ a {
     color: black;
 }
 
-.images {
-    width: 500;
-    height: 500;
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: auto;
+    height: 500px;
+    border-radius: 10%;
+}
+
+#bolobody {
+    background-color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bolo {
+    color: brown;
+
+}
+
+#chickenbody {
+    background-color: lightyellow;
+}
+
+.heading {
+    font-weight: 800;
+}
+
+.chicken {
+    color: rgb(143, 100, 21);
+}
+
+#oatsbody{
+    background-color: beige
+}
+
+.oats {
+    color: rgb(231, 170, 91);
 }
